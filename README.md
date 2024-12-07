@@ -22,11 +22,14 @@
 - 私とRをゆるく繋ぐ存在
     - Rを主力武器にしなくなって久しい
 - 新しいことを試す遊び場
-    - fzfというあいまい検索アルゴリズムの実装
-        - <https://atusy.shinyapps.io/fuzzyhelp/>
-    - webr・remixを使ったRのヘルプ検索エンジン
-        - <https://helpr.atusy.net/>
-    - loggerを使ったログ設計の練習
+    - R関係
+        - fzfというあいまい検索アルゴリズムの実装
+            - <https://atusy.shinyapps.io/fuzzyhelp/>
+        - webr・remixを使ったRのヘルプ検索エンジン
+            - <https://helpr.atusy.net/>
+        - loggerを使ったログ設計の練習
+    - その他
+        - Neovimプラグインの開発とか
 - サードプレイス
 
 ## もくもく会について
